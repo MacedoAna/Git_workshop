@@ -1,7 +1,7 @@
 
 # Git Workshop
 
-
+This repo belongs to Ana
 
 ![Image of Project](images/cheat_sheet.png)
 
